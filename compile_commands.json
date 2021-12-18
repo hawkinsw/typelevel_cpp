@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hawkinsw/code/typelevel_cpp-build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/booleans.dir/booleans.cpp.o -c /home/hawkinsw/code/typelevel_cpp/booleans.cpp",
+  "file": "/home/hawkinsw/code/typelevel_cpp/booleans.cpp"
+}
+]
